@@ -1,0 +1,13 @@
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\obj\Debug\Veri Sistemi.csprojAssemblyReference.cache
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\obj\Debug\Veri_Sistemi.Form1.resources
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\obj\Debug\Veri_Sistemi.Properties.Resources.resources
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\obj\Debug\Veri Sistemi.csproj.GenerateResource.cache
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\bin\Debug\Veri Sistemi.exe.config
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\bin\Debug\Veri Sistemi.exe
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\bin\Debug\Veri Sistemi.pdb
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\obj\Debug\Veri Sistemi.exe
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\obj\Debug\Veri Sistemi.pdb
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\bin\Debug\Veri Sistemi.exe.manifest
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\bin\Debug\Veri Sistemi.application
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\obj\Debug\Veri Sistemi.exe.manifest
+C:\Users\can\source\repos\Veri Sistemi\Veri Sistemi\obj\Debug\Veri Sistemi.application
